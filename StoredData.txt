@@ -1,0 +1,73 @@
+Interest rate:  3242
+Payment:  424
+Loan amount:  4232Interest rate:  32424233244
+Payment:  424324
+Loan amount:  4232324243Auto loan calculator-No. of monthly payments-***
+Interest rate:  54
+Payment:  435
+Loan amount:  534
+Auto loan calculator-No. of monthly payments-***
+Interest rate:  5454
+Payment:  435547
+Loan amount:  53475
+Compound Savings1-Interest rate-***
+Time in years:  32442
+Present value:  352352
+Future value:  423
+No.of compound payments per year:  432
+Compound Savings1-Interest rate-***
+Time in years:  22
+Present value:  45
+Future value:  78
+No.of compound payments per year:  79
+Mortgage calculator-Time in years-***
+Interest rate:  24
+Payment:  234
+Loan amount:  423
+Auto loan calculator-Payment-***
+Interest rate:  33
+Time taken in years:  3
+Loan amount:  324
+Auto loan calculator-No. of monthly payments-***
+Interest rate:  234
+Payment:  24
+Loan amount:  24
+Compound Savings1-Interest rate-***
+Time in years:  6
+Present value:  8
+Future value:  76
+No.of compound payments per year:  7
+Compound Savings1-Interest rate-***
+Timeinyears@11:  234
+Presentvalue@12:  324
+Futurevalue@14:  234
+No.ofcompoundpaymentsperyear@15:  234
+Auto loan calculator-No. of monthly payments-***
+Interest rate%11:  123
+Payment%12:  231
+Loan amount%14:  213
+Auto loan calculator-No. of monthly payments-***
+Interestrate%11:  123
+Payment%12:  213
+Loanamount%14:  213
+Compound Savings1-Time taken-***
+Interest rate@31:  
+Present value@32:  78
+Future value@34:  
+No.of compound payments per year@35:  
+Auto loan calculator-No. of monthly payments-***
+Interestrate%11:  87
+Payment%12:  231213
+Loanamount%14:  87
+Auto loan calculator-No. of monthly payments-***
+Interestrate%11:  11
+Payment%12:  33
+Loanamount%14:  11
+Mortgage calculator-Time in years-***
+Interestrate$11:  213
+Payment$12:  213
+Loanamount$14:  23213
+Auto loan calculator-No. of monthly payments-***
+Interestrate!11:  12
+Payment!12:  13
+Loanamount!14:  133
